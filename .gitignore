@@ -1,0 +1,8 @@
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# fish shell
+fishd.*
+.config/fish/fish_history
+fish/fish_history

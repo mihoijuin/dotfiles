@@ -1,0 +1,1 @@
+/Users/ijumiho/.config/fisherman/agnoster/fish_prompt.fish
