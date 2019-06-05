@@ -16,6 +16,6 @@ done
 
 
 # Brewfile
-brewbrew bundle
+brew bundle
 brew cleanup
 brew cask cleanup
