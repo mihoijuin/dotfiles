@@ -3,6 +3,7 @@
 Desktop.ini
 
 # fish shell
+fisher/
 fishd.*
 .config/fish/fish_history
 fish/fish_history
