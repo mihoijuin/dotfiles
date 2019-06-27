@@ -1,0 +1,48 @@
+{
+  "title": "My rules",
+  "rules": [
+    {
+      "description": "Change control+semicolon to escape",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "semicolon",
+            "modifiers": {
+                "mandatory": [
+                    ["left_control"]
+                ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "escape",
+            }
+          ],
+        }
+      ]
+    },
+    {
+      "description": "Change control+q to up arrow",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "q",
+            "modifiers": {
+                "mandatory": [
+                    ["left_control"]
+                ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "up_arrow",
+            }
+          ],
+        }
+      ]
+    },
+  ]
+}
+

@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/ijumiho/.bash_profile'
+let g:netrw_dirhist_2='/Users/ijumiho'
+let g:netrw_dirhist_3='/Users/ijumiho/.bash_profile'
+let g:netrw_dirhist_4='/Users/ijumiho/.bashrc'
