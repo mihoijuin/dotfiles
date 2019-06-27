@@ -1,13 +1,3 @@
-# pipenv
-eval (pipenv --completion)
-if status --is-login
-    set -gx PATH /usr/local/bin $PATH
-end
-
-# pyenv
-set -x PATH $HOME/.pyenv/shims $PATH
-eval (pyenv init - | source)
-
 # nodebrew
 set PATH $HOME/.nodebrew/current/bin $PATH
 
