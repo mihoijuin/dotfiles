@@ -10,8 +10,8 @@ inoremap <C-f> <Right>
 
 " キー入れ替え
 inoremap <silent> jj <ESC>
-noremap ;w ^
-noremap ;p $
+noremap <C-a> ^
+noremap <C-e> $
 
 " TABキーを押した際にタブ文字の代わりにスペースを入れる
 set expandtab
