@@ -13,5 +13,10 @@ inoremap <silent> jj <ESC>
 noremap ;w ^
 noremap ;p $
 
+" TABキーを押した際にタブ文字の代わりにスペースを入れる
+set expandtab
+set tabstop=4
+set shiftwidth=4
+
 " 行数
 set number
