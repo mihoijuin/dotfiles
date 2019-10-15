@@ -39,12 +39,12 @@
                       ]
                     },
                     {           
-                     "description": "Change control+q to up arrow",
+                     "description": "Change control+y to up arrow",
                      "manipulators": [
                         {
                           "type": "basic",
                           "from": {
-                            "key_code": "q",
+                            "key_code": "y",
                             "modifiers": {
                               "mandatory": [
                                 "control"
