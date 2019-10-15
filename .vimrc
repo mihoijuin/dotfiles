@@ -3,7 +3,7 @@ syntax enable
 colorscheme molokai
 
 " 入力モードでのカーソル移動
-inoremap <C-y> <Up>
+inoremap <C-i> <Up>
 inoremap <C-n> <Down>
 inoremap <C-b> <Left>
 inoremap <C-f> <Right>
