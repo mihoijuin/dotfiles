@@ -7,6 +7,9 @@ set PATH /usr/local/sbin $PATH
 # tzf
 # set -U FZF_LEGACY_KEYBINDINGS 1
 
+# pyenv
+pyenv init - | source
+
 # git alias
 balias ga 'git add'
 balias gamend 'git commit --amend'
